@@ -1,0 +1,8 @@
+export const TABLES = {
+    TEA_SHOOTS: 'TEA_SHOOTS',
+    TEA_POWDER: 'TEA_POWDER',
+    FERTILIZER: 'FERTILIZER',
+    ADVANCE: 'ADVANCE',
+    OTHER: 'OTHER'
+};
+export default TABLES;
