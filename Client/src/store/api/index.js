@@ -4,7 +4,7 @@ import axios from 'axios';
 //const API = axios.create({ baseURL: 'http://localhost:5000' });
 
 //LIVE
-const API = axios.create({ baseURL: 'http://35.209.133.25' });
+const API = axios.create({ baseURL: 'http://35.209.133.25/de-payroll' });
 
 API.interceptors.request.use((req) => {
     if (localStorage.getItem('profile')) {
