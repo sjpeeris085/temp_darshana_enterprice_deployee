@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1f2bb6b.css",
+    "main.js": "/static/js/main.7980b17f.js",
+    "static/js/243.57bb8534.chunk.js": "/static/js/243.57bb8534.chunk.js",
+    "static/js/180.59b9132b.chunk.js": "/static/js/180.59b9132b.chunk.js",
+    "static/js/444.4ff2afb2.chunk.js": "/static/js/444.4ff2afb2.chunk.js",
+    "static/js/525.c3ddff65.chunk.js": "/static/js/525.c3ddff65.chunk.js",
+    "static/js/966.f89d2c44.chunk.js": "/static/js/966.f89d2c44.chunk.js",
+    "static/js/335.b8188a2a.chunk.js": "/static/js/335.b8188a2a.chunk.js",
+    "static/js/745.d037974d.chunk.js": "/static/js/745.d037974d.chunk.js",
+    "static/js/893.19683b4d.chunk.js": "/static/js/893.19683b4d.chunk.js",
+    "static/js/165.3f265753.chunk.js": "/static/js/165.3f265753.chunk.js",
+    "static/js/346.93b1a7a3.chunk.js": "/static/js/346.93b1a7a3.chunk.js",
+    "static/js/819.0f7ffda2.chunk.js": "/static/js/819.0f7ffda2.chunk.js",
+    "static/js/65.9ebb5741.chunk.js": "/static/js/65.9ebb5741.chunk.js",
+    "static/js/266.d2887736.chunk.js": "/static/js/266.d2887736.chunk.js",
+    "static/js/899.8de5443c.chunk.js": "/static/js/899.8de5443c.chunk.js",
+    "static/js/799.aa9a052f.chunk.js": "/static/js/799.aa9a052f.chunk.js",
+    "static/js/676.3faf69bd.chunk.js": "/static/js/676.3faf69bd.chunk.js",
+    "static/js/191.3f23b6f4.chunk.js": "/static/js/191.3f23b6f4.chunk.js",
+    "static/js/981.cf366665.chunk.js": "/static/js/981.cf366665.chunk.js",
+    "static/js/13.5f8e9f5d.chunk.js": "/static/js/13.5f8e9f5d.chunk.js",
+    "static/js/158.f9061831.chunk.js": "/static/js/158.f9061831.chunk.js",
+    "static/js/281.091ffeee.chunk.js": "/static/js/281.091ffeee.chunk.js",
+    "static/media/info.mp3": "/static/media/info.a800d8f6d77100112d71.mp3",
+    "static/media/error.mp3": "/static/media/error.68bacdfdbf6f7e34fcd6.mp3",
+    "static/media/success.mp3": "/static/media/success.fec2b23f07f1802f3e94.mp3",
+    "index.html": "/index.html",
+    "static/media/google.svg": "/static/media/google.a025da87054139fc16b3b9b7ed0a2724.svg",
+    "static/media/twitter.svg": "/static/media/twitter.3e49f64208e00f377e9c3dbeaed797ce.svg",
+    "static/media/facebook.svg": "/static/media/facebook.eb4c069b746811e7b3a7ddf099989a69.svg"
+  },
+  "entrypoints": [
+    "static/css/main.e1f2bb6b.css",
+    "static/js/main.7980b17f.js"
+  ]
+}
